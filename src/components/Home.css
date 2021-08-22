@@ -1,0 +1,20 @@
+.main-component-home{
+    margin-left: 20%;
+    margin-right: 20%;
+    height: 100vh;
+}
+.link-card-main-home-component{
+    background-color: white;
+    border-radius: 20px;
+    padding: 10px;
+}
+.link-card-main-home-component-h2{
+    margin: 0;
+    padding: 0;
+}
+.link-card-main-home-component-link{
+    /* margin: 10px; */
+    padding: 0;
+    width: 100%;
+    margin-top: 20px;
+}

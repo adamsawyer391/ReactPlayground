@@ -1,0 +1,15 @@
+.input-area-counter{
+    margin-top: 50px;
+    font-size: 22px;
+    margin-bottom: 25px;
+    color: blue;
+}
+.counter-buttons{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+.counter-button-object{
+    padding: 15px;
+    margin-left: 20px;
+}
